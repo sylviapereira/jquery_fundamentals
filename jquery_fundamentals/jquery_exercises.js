@@ -1,83 +1,90 @@
 // SOLUTIONS GO BELOW EACH EXERCISE
 
-// EXERCISE: Change Background
+// STEP 0: Document Needs to be ready first!
+// Ensure that all the code you'll write below only execute when the document is ready
+// Hint: you can use .ready on the document object
 
-// Change the background color of '#target' by script. 
+
+// STEP 1: Change Background
+
+// Change the background color of '#step-1' by script.
 // Hint: you can use .css
 
-// EXERCISE: Change Parent
 
-// Change the text in the span, a child of "#target"
+// STEP 2: Change Parent
+
+// Change the text in the span, a child of "#step-2"
 // Hint: you can use .text
 
-// EXERCISE: Create Clone
 
-// Create a clone of the span in "#target" and position it under the origin.
+// STEP 3: Create Clone
+
+// Create a clone of the span in "#step-3" and position it under the original one.
 // Hint: you can use .clone and .insertAfter
 
-// EXERCISE: Use Filter
+
+// STEP 4: Use Filter
 
 // Change background color of the second ".target"
 // Hint: you can use .eq and .css
 
-// EXERCISE: Disable Buttons
+
+// STEP 5: Disable Buttons
 
 // Disable the button
 // Hint: you will have to select the button and can use .attr
 
-// EXERCISE: Uncheck CheckBoxes
+
+// STEP 6: Uncheck CheckBoxes
 
 // Uncheck all checkboxes using jQuery
 // Hint: you will have to select the input and can use .removeAttr
 
-// EXERCISE: Change Parent
 
-// Move "#child" from "#parent1" to "#parent2"
+// STEP 7: Change Parent
+
+// Move "#child-7" from "#step-7a" to "#step-7b"
 // Hint: you can use .appendTo
 
-// EXERCISE: Select A Option in A Select Box
 
-// Select the second option in the selectbox by script
-// Hint: you will have to select the option and can use .eq and .attr
+// STEP 8: Change Size
 
-// EXERCISE: Change Size
-
-// Make "#target" double size
+// Make "#step-8" double size
 // Hint: you can use .css, .width and .height
 
-// EXERCISE: Empty Elements
+
+// STEP 9: Empty Elements
+
+// Remove all children and text of "#step-9"
 // Hint: you can use .empty
 
-// Remove all children and text of "#target"
 
-// EXERCISE: Delay
+// STEP 10: Delay
 
 // Show Alert with 1 second delay (Use "setTimeout")
 // Hint: you can use .setTimeout and alert
 
-// EXERCISE: Count
+
+// STEP 11: Count
 
 // Show the number of children in an alert
 // Hint: you can use .children, .length and alert or you could use .find, .size and alert. the alert should show 5
 
-// EXERCISE: Animate
 
-// Make "#target" double size with animation
+// STEP 12: Animate
+
+// Make "#step-12" double size with animation
 // Hint: you can use .animate, .width, and .height
 
-// EXERCISE: Alternate Color
 
-// Make the list-box alternating. (Make odd options a different color)
-// Hint: you can select the option and use .filter and .css
+// STEP 13: All But One
 
-// EXERCISE: All But One
-
-// Remove all children of "#target" but h2
+// Remove all children of "#step-13" other than any h4 tags
 // Hint: you can use .children, .not and .remove
 
-// EXERCISE: Without Children
 
-// Remove all 'div' whitch has no child elements.
+// STEP 14: Without Children
+
+// Remove all 'div's from "#step-14" which have no child elements.
 // Hint: you can use .not and .remove. Look closely at what options you can pass .not
-
 
