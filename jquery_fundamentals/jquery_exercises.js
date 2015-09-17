@@ -49,7 +49,7 @@
 
 // STEP 8: Change Size
 
-// Make "#step-8" double size
+// Double the size of "#step-8"
 // Hint: you can use .css, .width and .height
 
 
@@ -62,7 +62,7 @@
 // STEP 10: Delay
 
 // Show Alert with 1 second delay (Use "setTimeout")
-// Hint: you can use .setTimeout and alert
+// Hint: you can use setTimeout and alert (these aren't jQuery functions!)
 
 
 // STEP 11: Count
