@@ -10,6 +10,12 @@
 // Find the Google search button and store it in a variable.
 // Modify the text of the button so that it says "Yahooo!" instead.
 
+var logo = document.getElementById('hplogo');
+logo.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yahoo_Logo.svg/2000px-Yahoo_Logo.svg.png'
+
+var searchButton = document.getElementsByName("btnK");
+searchButton[0].value = 'Yahoo'
+
 // EXERCISE: About Me
 
 // Cuz every webpage needs an "About" section.
